@@ -16,3 +16,6 @@ Design a system where users can schedule their payments. An external API is prov
 
 https://towardsdatascience.com/ace-the-system-design-interview-job-scheduling-system-b25693817950
 job scheduler
+
+https://leetcode.com/discuss/interview-question/3636431/Phone-Pe-or-Machine-Coding-or-Stock-Exchange
+design stock exchange - machine coding
