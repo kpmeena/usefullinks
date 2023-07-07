@@ -1,5 +1,9 @@
 # usefullinks
 
+https://github.com/antariksh17/Reddit-wiki-programming collection of different links for sys design and algo - good
+
+------
+
 System design
 
 https://leetcode.com/discuss/interview-question/system-design/728464/Microsoft-or-Onsite-or-Modify-an-OTP-generation-system-to-handle-more-requests
