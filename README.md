@@ -2,6 +2,13 @@
 
 https://github.com/antariksh17/Reddit-wiki-programming collection of different links for sys design and algo - good
 
+https://serhatgiydiren.com/system-design-interview-top-k-problem-heavy-hitters/
+top k problem - heavy hitters
+
+https://www.youtube.com/watch?v=bUHFg8CZFws&t=2543s&ab_channel=SystemDesignInterview
+ System Design Interview – Step By Step Guide 
+
+
 ------
 
 System design
