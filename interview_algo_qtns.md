@@ -10,3 +10,11 @@ Notice that a word is always similar to itself, also notice that the similarity 
 https://leetcode.com/discuss/interview-question/3740143/Uber-or-SSE-or-DSA
 
 ---------
+https://leetcode.com/discuss/interview-question/3742634/Amazon-or-OA
+
+Find the number of subarrays in a given integer array whose maximum element is either equal to left or right element of subarray.
+Test Case:
+{3,1,3,5} - > 10 // All subarrays satisfy the condition
+{2, 5, 3} -> 5 // {2,5,3} Subarray doesn't satisy condition
+Looking for solution better O(n*n).
+
