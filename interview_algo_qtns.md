@@ -18,3 +18,15 @@ Test Case:
 {2, 5, 3} -> 5 // {2,5,3} Subarray doesn't satisy condition
 Looking for solution better O(n*n).
 
+--
+https://leetcode.com/discuss/interview-question/3739478/Atlassian-or-OA-or-return-number-of-neighboring-houses
+
+There are houses on a straight line. We are given instructions to delete some houses. It is guaranteed that the instructions will be given for valid houses. Return a list of the number of neighboring houses after each instruction.
+
+Example: houses = [2, 1, 3, 4, 6, 7, 9], instructions = [6, 3, 9]. The result should be [3, 4, 3].
+Sort the houses: [1, 2, 3, 4, 6, 7, 9]
+After step 1, the houses are [1, 2, 3, 4, 7, 9]; the neighboring house groups are (1, 2, 3, 4), (7), (9)
+After step 1, the houses are [1, 2, 4, 7, 9]; the neighboring house groups are (1, 2), (4), (7), (9)
+After step 1, the houses are [1, 2, 4, 7]; the neighboring house groups are (1, 2), (4), (7)
+
+--------
