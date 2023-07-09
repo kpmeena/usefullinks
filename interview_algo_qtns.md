@@ -7,3 +7,6 @@ Two sentences are similar if:
 They have the same length (i.e., the same number of words)
 Corresponding words are similar.
 Notice that a word is always similar to itself, also notice that the similarity relation is transitive. For example, if the words a and b are similar, and the words b and c are similar, then a and c are similar.
+https://leetcode.com/discuss/interview-question/3740143/Uber-or-SSE-or-DSA
+
+---------
