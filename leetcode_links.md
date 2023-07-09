@@ -27,6 +27,8 @@ https://leetcode.com/discuss/general-discussion/1093346/introduction-to-fenwick-
 Introduction to Fenwick Tree/Binary Indexed Tree(BIT)
 
 ----------
+https://leetcode.com/discuss/study-guide/3735417/topics-which-you-cant-skip-interview-preparation-part-1
+prime, math, factors 
 
 https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide
 sliding window
