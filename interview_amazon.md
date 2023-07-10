@@ -7,6 +7,9 @@ Test Case:
 Looking for solution better O(n*n).
 
 same as -
+
+https://leetcode.com/discuss/interview-question/3719223/amazon-sde-oa-2023-find-maximum-profitable-months/1957207
+
 A team of analysts at Amazon needs to analyze the stock prices of Amazon over a period of several months.
 
 A group of consecutively chosen months is said to be maximum profitable
