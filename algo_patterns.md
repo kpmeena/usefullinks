@@ -22,4 +22,6 @@ So 3 side lengths a, b, c can form a Triangle if and only if a + b > c && a + c 
 11. https://leetcode.com/problems/3sum-smaller/  --  k-j pattern, 3 sum, 2 sum
     if 1+2 ..4,6, +7 is < target, then 1+2 +6, 1+2+4 all will form a result. 1+2 is constant, dicard 2 (j) j++
 
-12. 
+12. https://leetcode.com/problems/cheapest-flights-within-k-stops/ -- bellman ford
+
+13. 
