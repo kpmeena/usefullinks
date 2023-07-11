@@ -1,9 +1,12 @@
-https://github.com/antariksh17/Reddit-wiki-programming
-collection of different links for sys design and algo - good
+
 
 https://zerotrac.github.io/leetcode_problem_rating/#/
 
+https://www.pepcoding.com/most-important-interview-questions-list-for-product-based-companies
 ------
+https://github.com/antariksh17/Reddit-wiki-programming
+collection of different links for sys design and algo - good
+-------
 https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=graph-theory
 
 https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode
