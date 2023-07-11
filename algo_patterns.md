@@ -24,4 +24,6 @@ So 3 side lengths a, b, c can form a Triangle if and only if a + b > c && a + c 
 
 12. https://leetcode.com/problems/cheapest-flights-within-k-stops/ -- bellman ford
 
-13. 
+13. https://leetcode.com/problems/network-delay-time/ -- djikstra
+
+14. 
