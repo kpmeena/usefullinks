@@ -4,17 +4,21 @@ https://www.infoq.com/presentations/Twitter-Timeline-Scalability/ Raffi
 
 https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md donne martin
 
+--------
 Functional requirements
 
 Users should be able to post tweets
 Users should be able to read tweets of people who they follow
 Users should be able to search tweets
+-------
 Scope
 
 How many DAU (Daily Active Users)?
 Traffic?
 RPS - requests per second?
 tweets per second?
+
+------
 Capacity Estimation - Back of the envelope
 
 tweet size = 140 chars? 280 bytes? A char represents a character in Java (*). It is 2 bytes large (or 16 bits).
@@ -26,6 +30,7 @@ tweets per second on average? 500 million tweets per day
 10 KB per tweet * 500 million tweets per day = 500 million * 10 KB = 5000 million = 5 billion KB = 5 TB. 150 TB per month
 
 Kilo, Mega, Giga, Tera, Peta bytes
+------
 
 Data Model
 
@@ -44,6 +49,7 @@ one-to-many relationship: One customer can order many items.
 The many-to-many relationship is better described by a book sample:
 
 An author can write many books (that would be a one-to-many relationship). But he can have co-authors also involved - one book can have many authors.
+-----
 
 Services
 
