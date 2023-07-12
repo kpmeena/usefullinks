@@ -7,7 +7,7 @@ a = sqrt ( (x2-x1) ^ 2    +    (y2-y1) ^ 2  )
 
 --------
 
-manhattan distance
+**manhattan distance**
 walk the grid - x2-x1 + y2-y1
 
 -----
