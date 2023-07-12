@@ -52,5 +52,14 @@ user_id  following_id
 
 4. tweets table
 
+so, many to many means 1-n from both the sides.
+
+one-to-many relationship: One customer can order many items.
+
+The many-to-many relationship is better described by a book sample:
+
+An author can write many books (that would be a one-to-many relationship). 
+But he can have co-authors also involved - one book can have many authors.
+
 -------
 
