@@ -34,8 +34,8 @@ Capacity Estimation - Back of the envelope
 2. tweets per second on average?
    500 million tweets per day
    
-    10 KB per tweet * 500 million tweets per day  = 500 million * 10 KB = 5000 million = 5 billion KB = 5 TB
-    150 TB 
+    10 KB per tweet * 500 million tweets per day  = 500 million * 10 KB = 5000 million = 5 billion KB = 5 TB.
+    150 TB per month
 
    Kilo, Mega, Giga, Tera, Peta bytes
 
@@ -62,4 +62,15 @@ An author can write many books (that would be a one-to-many relationship).
 But he can have co-authors also involved - one book can have many authors.
 
 -------
+
+Services
+
+Home Timeline service - user views tweets from the people they follow
+User Time Service - user views their own tweets 
+
+------
+
+HLD
+
+
 
