@@ -4,16 +4,18 @@ https://www.infoq.com/presentations/Twitter-Timeline-Scalability/ Raffi
 
 https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md donne martin
 
+text of raffi's presentation
+http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html
 --------
 Functional requirements
 
 Users should be able to post tweets
-Users should be able to read tweets of people who they follow
+Home timeline - Users should be able to view tweets of people who they follow
 Users should be able to search tweets
 ----------------
 Scope
 
-How many DAU (Daily Active Users)?
+How many DAU (Daily Active Users)? 500 million
 Traffic?
 RPS - requests per second?
 tweets per second?
@@ -29,7 +31,7 @@ tweets per second on average? 500 million tweets per day
 
 10 KB per tweet * 500 million tweets per day = 500 million * 10 KB = 5000 million = 5 billion KB = 5 TB. 150 TB per month
 
-Kilo, Mega, Giga, Tera, Peta bytes
+Kilo, Mega, Giga, Tera, Peta bytes - Ki M Gi Te Pe
 --------------------------------------------------------------------------------
 
 
