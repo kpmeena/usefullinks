@@ -30,7 +30,8 @@ tweets per second on average? 500 million tweets per day
 10 KB per tweet * 500 million tweets per day = 500 million * 10 KB = 5000 million = 5 billion KB = 5 TB. 150 TB per month
 
 Kilo, Mega, Giga, Tera, Peta bytes
-------------------------
+-------------
+
 
 Data Model
 
