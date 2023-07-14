@@ -1,3 +1,16 @@
+https://leetcode.com/discuss/explore/facebook/1197242/Facebook-online-screening-questions
+
+remove items with val ==0 from the linked list, similar to
+https://leetcode.com/problems/remove-linked-list-elements/
+
+https://leetcode.com/problems/remove-element/
+
+Given boolean array of days at work, [T, F, T, T, F, F, F, T] and pto (number of PTOs one can take) - where boolean T means paid holiday and F means you can take a PTO. Find the maximum length of vacation an employee can take.
+int findMaxVacationLength(year = [F, T, F, T, F, T, F, ], pto = 2) should return 5 because if we take PTO on indices year[2] and year[4], then we can get the maximum length vacation (consecutive T's).
+similar to : https://leetcode.com/problems/max-consecutive-ones-iii/
+
+-----
+
 https://leetcode.com/discuss/interview-question/516166/facebook-onsite-reddit-upvote-system
 
 The focus here is on the data structures and solution, not system design. Let me know if you need more clarification.
