@@ -1,4 +1,6 @@
 
+
+-----------
 1. set, unset ith bit, check if ith bit is set -
    https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/
 
@@ -29,4 +31,9 @@ So 3 side lengths a, b, c can form a Triangle if and only if a + b > c && a + c 
 14. https://leetcode.com/problems/find-eventual-safe-states/   - directed graph cycles - using 3 colors
 
 15. https://leetcode.com/problems/delete-and-earn/  -- knapsack, recurrence relation
+---
+1. https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/
+
+
 
