@@ -6,6 +6,11 @@ https://github.com/donnemartin/system-design-primer/blob/master/solutions/system
 
 text of raffi's presentation
 http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html
+
+https://www.youtube.com/watch?v=dq7F51YLoxU&ab_channel=33rdDegree
+ 33rd Degree 2012 - Twitter: From Ruby on Rails to the JVM - Raffi Krikorian 
+
+ 
 --------
 Functional requirements
 
