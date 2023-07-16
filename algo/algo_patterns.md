@@ -31,7 +31,11 @@ So 3 side lengths a, b, c can form a Triangle if and only if a + b > c && a + c 
 
 14. https://leetcode.com/problems/find-eventual-safe-states/   - directed graph cycles - using 3 colors
 
-15. https://leetcode.com/problems/delete-and-earn/  -- knapsack, recurrence relation
+---
+knapsack
+
+1. https://leetcode.com/problems/delete-and-earn/  -- knapsack, recurrence relation
+2. 
 ---
 
 Weighted interval scheduling/unweighted interval scheduling
@@ -39,5 +43,15 @@ Weighted interval scheduling/unweighted interval scheduling
 2. https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/  -- weighted (like 
 3. https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 ---
+construct binary tree
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+---
+
+Random
+
+1. Given an integer n and a list of integers l, write a function that randomly generates a number from 0 to n-1 that isn't in l (uniform).
+2. https://leetcode.com/problems/implement-rand10-using-rand7/
 
 
