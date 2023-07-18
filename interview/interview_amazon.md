@@ -1,3 +1,33 @@
+July 2023
+
+https://leetcode.com/discuss/interview-question/3784161/Amazon-or-OA-or-Get-Popularity-of-movie
+
+Amazon organized a movie festival to promote its online video- streaming platform, amazon prime video.
+In the festival, movies of 2 categories, "comedy" and "drama" were played on a loop. The original sequence of movies is represented as a binary string, where a comedy movie is denoted by '0', and a drama is '1'. The movies are on a continuous loop, so if the original sequence of movies is "01101" and is concatenated infinitely so they are played in the order "011010110101101. . . . ".
+The popularity of the festival is the number of times the difference between the number of comedies and dramas played so far (that is the prefix till that index) is exactly equal to diff. More formally, the popularity of the festival is the number of prefixes in the concatenated string for which count('0') - count('1') = diff.
+
+Given the original sequence of movies denoted by movieorder, and the popularity parameter diff, find the popularity of the festival. If there are infinite such instances possible, return "-1". If there is no such instance possible, return "0".
+
+Notes:
+• a binary string consists of characters '0'and '1
+• empty strings are also considered.
+
+Example
+the sequence movieorder="110100" and diff=-1.
+prefixes of lengths 3, 9, 15, 21, satisfy the constraint of diff--1.
+Since there are an infinite number of instances that satisfy the requirement, the answer is-1.
+
+Function description:
+Complete the function getpopularity in the editor below.
+
+getpopularity has the following parameters:
+string movieorder: the original order of movies.
+Int diff: the required value of count(0)-count(1)
+
+Returns
+int: the popularity of the festival, or 1
+------
+
 OA - july 10 2023
 
 Find the number of subarrays in a given integer array whose maximum element is either equal to left or right element of subarray.
