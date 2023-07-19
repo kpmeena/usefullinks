@@ -5,6 +5,9 @@ https://serhatgiydiren.com/system-design-interview-top-k-problem-heavy-hitters/ 
 
 https://www.youtube.com/watch?v=bUHFg8CZFws&t=2543s&ab_channel=SystemDesignInterview System Design Interview – Step By Step Guide
 
+GOOD
+https://www.karanpratapsingh.com/courses/system-design
+https://github.com/karanpratapsingh/system-design
 
 ------
 https://github.com/binhnguyennus/awesome-scalability system design - very good
