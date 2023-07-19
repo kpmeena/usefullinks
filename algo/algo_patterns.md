@@ -11,7 +11,7 @@ Two other similar questions are
 https://leetcode.com/problems/matchsticks-to-square/
 https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 ----
-Adjacent houses/elements in array
+ADJACENT houses/elements in array
 
 https://leetcode.com/problems/delete-and-earn/
 https://leetcode.com/problems/house-robber/
@@ -19,6 +19,10 @@ https://leetcode.com/problems/house-robber-ii/
 https://leetcode.com/problems/paint-house/
 
 https://leetcode.com/discuss/interview-question/3782629/Chubb-OA
+
+-----
+Binary search
+https://labuladong.gitbook.io/algo-en/iii.-algorithmic-thinking/detailedbinarysearch
 
 -----
 1. set, unset ith bit, check if ith bit is set -
