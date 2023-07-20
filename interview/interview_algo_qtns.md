@@ -13,31 +13,7 @@ Notice that a word is always similar to itself, also notice that the similarity 
 https://leetcode.com/discuss/interview-question/3740143/Uber-or-SSE-or-DSA
 
 ---------
-https://leetcode.com/discuss/interview-question/350248/Google-or-Summer-Intern-OA-2019-or-Stores-and-Houses
-Google
 
-You are given 2 arrays representing integer locations of stores and houses (each location in this problem is one-dementional). 
-For each house, find the store closest to it.
-Return an integer array result where result[i] should denote the location of the store closest to the i-th house. 
-If many stores are equidistant from a particular house, choose the store with the smallest numerical location. 
-Note that there may be multiple stores and houses at the same location.
-
-Example 1:
-
-Input: houses = [5, 10, 17], stores = [1, 5, 20, 11, 16]
-Output: [5, 11, 16]
-Explanation: 
-The closest store to the house at location 5 is the store at the same location.
-The closest store to the house at location 10 is the store at the location 11.
-The closest store to the house at location 17 is the store at the location 16.
-Example 2:
-
-Input: houses = [2, 4, 2], stores = [5, 1, 2, 3]
-Output: [2, 3, 2]
-Example 3:
-
-Input: houses = [4, 8, 1, 1], stores = [5, 3, 1, 2, 6]
-Output: [3, 6, 1, 1]
 
 -------
 https://leetcode.com/discuss/interview-question/3742634/Amazon-or-OA
@@ -107,3 +83,50 @@ Write an efficient algorithm for the following assumptions:
 ⚫ N is an integer within the range [1..100,000];
 ⚫ each element of array A is an integer within the range [1..1,000,000,000].
 Remember, all submissions are being checked for plagiarism.
+
+----
+July 20
+https://leetcode.com/discuss/interview-question/3791790/Adobe-OA
+
+The country has N cities and M bidirectional bridges of types 1,2 and 3. Some citizens of the country are affected by fruit and are called smilers.
+
+a. Bridges of type 3 can be used by everyone
+
+b. Bridges of type 2 can be used only by smilers
+
+C. Bridges of type 1 can only be used by non-smilers
+
+Omesh has an interesting query for you, how many bridges can you destroy such that the country is still connected? A connected country is a country where all citizens can go from one city to another..
+
+Input format:
+
+The first line contains integers N and M.
+The following M lines contain the edges described by three integers A, B, and C .
+A and B are the two cities numbered between 1 and N and C is the type of road.
+
+Output:
+
+Single integer denoting the number of roads that can be already disconnected, print-1 if Wano is already disconnected.
+
+Constraints
+
+T < 10
+
+N, M< 10^4
+
+1 <= A, B<= N
+
+Sample Input
+5 7
+1 2 3
+2 3 3
+3 4 3
+5 3 2
+5 4 1
+5 2 2
+1 5 1
+Sample Output
+2
+
+Memory Limit: 400 (in MB) Time Limit: 5 (in Seconds)
+https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
