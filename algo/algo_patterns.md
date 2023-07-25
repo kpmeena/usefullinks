@@ -21,6 +21,17 @@ https://leetcode.com/problems/paint-house/
 https://leetcode.com/discuss/interview-question/3782629/Chubb-OA
 
 -----
+
+jump game score
+https://leetcode.com/problems/jump-game-vi/    -- jump at most k steps forward. Return the maximum score. DEQUE is optimal
+
+can we also use FOR loop here since we have (n-i) choices here i am getting confused when to use for loop and when not
+https://leetcode.com/problems/visit-array-positions-to-maximize-score/   - can jump to any pos in right. reduce score when parity is diff. 2D dp. 
+
+jump game - min steps
+https://leetcode.com/problems/jump-game-iv/   -- jump to i+1, i-1 or arr[i] == arr[j]. return minimum number of steps 
+
+-----
 Binary search
 https://labuladong.gitbook.io/algo-en/iii.-algorithmic-thinking/detailedbinarysearch
 
