@@ -111,4 +111,9 @@ Random
 1. Given an integer n and a list of integers l, write a function that randomly generates a number from 0 to n-1 that isn't in l (uniform).
 2. https://leetcode.com/problems/implement-rand10-using-rand7/
 
+-----
+Triangle
+
+1. https://www.wikihow.com/Determine-if-Three-Side-Lengths-Are-a-Triangle
+
 
