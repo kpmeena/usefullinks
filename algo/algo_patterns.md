@@ -2,6 +2,18 @@
 https://cses.fi/book/book.pdf
 
 -----------
+line segments
+
+1. https://courses.engr.illinois.edu/cs374/sp2020/B/hw/hw_05_extra.pdf
+facebook - bruteforce and optimal
+Suppose we are given two sets of n points, one set {p1, p2, . . . , pn} on the line y = 0 and the other
+set {q1, q2, . . . , qn} on the line y = 1. Consider the n line segments connecting each point pi to the
+corresponding point qi
+. Describe and analyze a divide-and-conquer algorithm to determine how
+many pairs of these line segments intersect, in O(n log n) time. See the example below.
+
+
+----
 Branch cutting -- buckets and subsets and subsetsum - pruning and optimization
 
 https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/discuss/1009817/one-branch-cutting-trick-to-solve-three-leetcode-questions
