@@ -16,12 +16,13 @@ many pairs of these line segments intersect, in O(n log n) time. See the example
 ----
 Branch cutting -- buckets and subsets and subsetsum - pruning and optimization
 
-https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/discuss/1009817/one-branch-cutting-trick-to-solve-three-leetcode-questions
-https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
+1. https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/discuss/1009817/one-branch-cutting-trick-to-solve-three-leetcode-questions
+2. https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
 
 Two other similar questions are
-https://leetcode.com/problems/matchsticks-to-square/
-https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+
+1. https://leetcode.com/problems/matchsticks-to-square/
+2. https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 ----
 ADJACENT houses/elements in array
 
