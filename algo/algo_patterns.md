@@ -25,10 +25,10 @@ https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 ----
 ADJACENT houses/elements in array
 
-https://leetcode.com/problems/delete-and-earn/
-https://leetcode.com/problems/house-robber/
-https://leetcode.com/problems/house-robber-ii/
-https://leetcode.com/problems/paint-house/
+1. https://leetcode.com/problems/delete-and-earn/
+2. https://leetcode.com/problems/house-robber/
+3. https://leetcode.com/problems/house-robber-ii/
+4. https://leetcode.com/problems/paint-house/
 
 https://leetcode.com/discuss/interview-question/3782629/Chubb-OA
 
